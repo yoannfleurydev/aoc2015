@@ -1,0 +1,14 @@
+{
+  "name": "aoc2015",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "bun test --watch"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
